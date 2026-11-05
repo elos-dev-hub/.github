@@ -1,5 +1,7 @@
 <p align="center"><img src="imagens/banner.svg" alt="ELOS" width="100%"></p>
 
+<p align="center"><img src="imagens/mobius.gif" alt="Fita de Möbius da ELOS girando" width="100%"></p>
+
 Software e automação sob medida para empresas que querem parar de perder tempo e dinheiro com processos manuais.
 
 A ELOS escuta como a sua operação funciona, entende onde ela trava e constrói a solução que encaixa. Você não compra um sistema pronto e se adapta a ele.
