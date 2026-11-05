@@ -1,7 +1,5 @@
 <p align="center"><img src="imagens/banner.svg" alt="ELOS" width="100%"></p>
 
-<p align="center"><img src="imagens/mobius.gif" alt="Fita de Möbius da ELOS girando" width="100%"></p>
-
 Software e automação sob medida para empresas que querem parar de perder tempo e dinheiro com processos manuais.
 
 A ELOS escuta como a sua operação funciona, entende onde ela trava e constrói a solução que encaixa. Você não compra um sistema pronto e se adapta a ele.
@@ -11,6 +9,8 @@ A ELOS escuta como a sua operação funciona, entende onde ela trava e constrói
 - **Software sob medida.** Sistemas e aplicativos construídos para o processo da sua empresa.
 - **Automação de processos.** Menos planilha, menos retrabalho, sistemas que passam a conversar entre si.
 - **Consultoria e ensino.** Capacitação da equipe que vai operar a solução.
+
+<p align="center"><img src="imagens/mobius.gif" alt="Fita de Möbius da ELOS girando" width="100%"></p>
 
 ## Como trabalhamos
 
